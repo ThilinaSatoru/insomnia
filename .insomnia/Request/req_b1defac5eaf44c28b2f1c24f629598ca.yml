@@ -1,0 +1,21 @@
+_id: req_b1defac5eaf44c28b2f1c24f629598ca
+type: Request
+parentId: wrk_9f3334db070744ff83262a4dc9142727
+modified: 1707647510159
+created: 1707647510159
+url: https://proptilla.cosmoforge.com/api/v1/properties?pageNo=1&pageSize=10&city=London
+name: Search Default
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1706586862145
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
