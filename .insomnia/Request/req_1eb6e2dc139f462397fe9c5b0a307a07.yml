@@ -1,9 +1,9 @@
 _id: req_1eb6e2dc139f462397fe9c5b0a307a07
 type: Request
 parentId: wrk_43143ba9fb414c1c8f7cea3f92e17031
-modified: 1707280896614
+modified: 1707666703636
 created: 1706587063319
-url: https://proptilla.cosmoforge.com/api/v1/properties?pageNo=1&pageSize=10&city=London&area=5
+url: http://localhost:8081/api/v1/properties?pageNo=1&pageSize=10&city=London&area=5
 name: area
 description: ""
 method: GET

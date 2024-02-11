@@ -1,9 +1,9 @@
 _id: req_eed0fbeec9c54e3b9a4a2163c79e40b3
 type: Request
 parentId: wrk_43143ba9fb414c1c8f7cea3f92e17031
-modified: 1707280896622
+modified: 1707668411773
 created: 1706587063313
-url: https://proptilla.cosmoforge.com/api/v1/properties/count
+url: http://localhost:8081/api/v1/properties/count
 name: count
 description: ""
 method: GET

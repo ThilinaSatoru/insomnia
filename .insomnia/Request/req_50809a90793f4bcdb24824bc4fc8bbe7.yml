@@ -1,9 +1,9 @@
 _id: req_50809a90793f4bcdb24824bc4fc8bbe7
 type: Request
 parentId: wrk_9f3334db070744ff83262a4dc9142727
-modified: 1707647510174
+modified: 1707669402533
 created: 1707647510174
-url: https://proptilla.cosmoforge.com/api/v1/properties?pageNo=1&pageSize=10&city=London&attributes=Parking
+url: https://proptilla.cosmoforge.com/api/v1/properties?pageNo=0&pageSize=10&city=London&attributes=Parking
 name: attributes
 description: ""
 method: GET

@@ -1,9 +1,9 @@
 _id: req_094ce3158a304317b244a4244fae500e
 type: Request
 parentId: wrk_43143ba9fb414c1c8f7cea3f92e17031
-modified: 1707280896613
+modified: 1707668456487
 created: 1706587063333
-url: https://proptilla.cosmoforge.com/api/v1/properties?pageNo=1&pageSize=10&city=London&sortby=high_price
+url: http://localhost:8081/api/v1/properties?pageNo=0&pageSize=10&city=London&sortby=high_price
 name: sortby
 description: ""
 method: GET

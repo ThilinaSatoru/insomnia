@@ -1,9 +1,10 @@
 _id: req_9a57f663148a4adb894a5656d4450941
 type: Request
 parentId: wrk_43143ba9fb414c1c8f7cea3f92e17031
-modified: 1707280896619
+modified: 1707668379929
 created: 1706587063331
-url: https://proptilla.cosmoforge.com/api/v1/properties?pageNo=1&pageSize=10&city=London&types=Residential%20land
+url: http://localhost:8081/api/v1/properties?pageNo=0&pageSize=10&city=London&types=Residential
+  land
 name: types
 description: ""
 method: GET
