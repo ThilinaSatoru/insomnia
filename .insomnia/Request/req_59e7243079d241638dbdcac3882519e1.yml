@@ -1,0 +1,21 @@
+_id: req_59e7243079d241638dbdcac3882519e1
+type: Request
+parentId: wrk_43143ba9fb414c1c8f7cea3f92e17031
+modified: 1707667953537
+created: 1707664561745
+url: http://localhost:8081/api/v1/properties?pageNo=0&pageSize=10&city=Birmingham&not_attributes=Parking
+name: not attributes
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1706586939740.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
