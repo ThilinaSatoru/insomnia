@@ -1,9 +1,9 @@
 _id: req_5a7664947c4a48fb8069875984f52388
 type: Request
 parentId: wrk_43143ba9fb414c1c8f7cea3f92e17031
-modified: 1707280896617
+modified: 1707668435075
 created: 1706587063321
-url: https://proptilla.cosmoforge.com/api/v1/property?id=308
+url: http://localhost:8081/api/v1/property?id=1308
 name: ByID
 description: ""
 method: GET

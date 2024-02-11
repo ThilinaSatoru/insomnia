@@ -1,9 +1,9 @@
 _id: req_48bc6d9d7c944e0d9ee84fc53a21073c
 type: Request
 parentId: wrk_43143ba9fb414c1c8f7cea3f92e17031
-modified: 1707280896615
+modified: 1707668353257
 created: 1706587063324
-url: https://proptilla.cosmoforge.com/api/v1/properties?pageNo=1&pageSize=10&city=London&keywords=Balcony,Annex
+url: http://localhost:8081/api/v1/properties?pageNo=0&pageSize=10&city=London&keywords=Balcony,Annex
 name: keywords
 description: ""
 method: GET
