@@ -1,9 +1,9 @@
 _id: req_7abc08d807544a7286102db6320ad00a
 type: Request
 parentId: wrk_43143ba9fb414c1c8f7cea3f92e17031
-modified: 1707668417575
+modified: 1707729922244
 created: 1706587063317
-url: http://localhost:8081/api/v1/properties?pageNo=1&pageSize=10&city=London
+url: http://localhost:8081/api/v1/properties?pageNo=0&pageSize=10&city=London
 name: Search Default
 description: ""
 method: GET
